@@ -5,7 +5,7 @@
     Magic: Replication of desire
 
 
-[✡️ ⭐ 🔺 🟦  Buy the Shapes of Reality](https://www.actiongeometry.com/shapes)
+[✡️ ⭐ 🔺 🟦  Buy the Shapes of Reality](shapes/)
 
 [📬 Buy self-replicating post card](https://www.actiongeometry.com/postcard)
 
