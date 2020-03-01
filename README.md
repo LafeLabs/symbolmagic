@@ -1,13 +1,17 @@
 # Symbol Magic
 
-    Symbol: geometry with meaning
+    Symbol: Geometry with meaning
 
-    magic: replication of desire
+    Magic: Replication of desire
 
- - [Buy the Shapes of Reality](https://www.actiongeometry.com/shapes)
- - [Buy self-replicating post card](https://www.actiongeometry.com/postcard)
- - [Summon a wizard](contact/)
- - [More self-replicating media](srm/)
+
+[✡️ ⭐ 🔺 🟦  Buy the Shapes of Reality](https://www.actiongeometry.com/shapes)
+
+[📬 Buy self-replicating post card](https://www.actiongeometry.com/postcard)
+
+[🧙Summon a wizard](contact/)
+
+[🍄More self-replicating media](srm/)
 
 ![](iconsymbols/square.svg)
 
