@@ -20,5 +20,15 @@
         "rdelete.txt",
         "replicator.txt",
         "text2php.txt"
+    ],
+    "iconsymbols": [
+        "hexagon.png",
+        "hexagon.svg",
+        "pentagon.png",
+        "pentagon.svg",
+        "spiral.png",
+        "spiral.svg",
+        "square.png",
+        "square.svg"
     ]
 }
