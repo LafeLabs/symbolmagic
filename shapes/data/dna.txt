@@ -26,9 +26,11 @@
         "hexagon.svg",
         "pentagon.png",
         "pentagon.svg",
+        "scales.svg",
         "spiral.png",
         "spiral.svg",
         "square.png",
-        "square.svg"
+        "square.svg",
+        "symmetries.svg"
     ]
 }

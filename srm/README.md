@@ -12,7 +12,7 @@
 - [Shapes of Reality Symbol Generator](ag/)
 - [Geometron Thing](geometronthing/)
 
-## Physical[summon a wizard to learn more](../contact/):
+## Physical([summon a wizard to learn more](../contact/)):
 
 - ArtBox: The self-replicating geometric purse to carry and store art supplies and share those art supplies with the world
 - The Self-Replicating Geometry Book
