@@ -1,5 +1,7 @@
 [Link up a level](../)
 
+[edit this page](scrolleditor.html)
+
 # Shapes of Reality
 
 ### [< link to buy the acrylic shapes from actiongeometry.com >](https://www.actiongeometry.com/shapes)
@@ -12,6 +14,14 @@ These shapes represent the core symmetries and scales that define our Reality.  
 ![](iconsymbols/pentagon.svg)
 
 ![](iconsymbols/hexagon.svg)
+
+## Symmetry Glyphs
+
+![](iconsymbols/symmetries.svg)
+
+## Scale Glyphs
+
+![](iconsymbols/scales.svg)
 
 ![](https://i.imgur.com/MWAG8en.jpg)
 
