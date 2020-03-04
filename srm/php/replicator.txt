@@ -11,6 +11,26 @@ mkdir("data");
 mkdir("php");
 
 
+$srsreplicator = file_get_contents("https://raw.githubusercontent.com/LafeLabs/srs/master/php/replicator.txt");
+
+$srwpreplicator = file_get_contents("https://raw.githubusercontent.com/LafeLabs/srwp/master/php/replicator.txt");
+
+$agreplicator = file_get_contents("https://raw.githubusercontent.com/LafeLabs/actiongeometry/master/symbol-simplified/php/replicator.txt");
+
+$thingreplicator = file_get_contents("https://raw.githubusercontent.com/LafeLabs/thing/master/php/replicator.txt");
+
+
+mkdir("srs");
+mkdir("srwp");
+mkdir("ag");
+mkdir("geometronthing");
+
+file_put_contents("srs/replicator.php",$srsreplicator);
+file_put_contents("srwp/replicator.php",$srwpreplicator);
+file_put_contents("ag/replicator.php",$agreplicator);
+file_put_contents("geometronthing/replicator.php",$thingreplicator);
+
+
 foreach($dna->html as $value){
     copy($baseurl.$value,$value);
 }
