@@ -2,7 +2,7 @@
 
 # Self-Replicating Postcard
 
-## [< link to buy self-replicating postcard >](https://www.actiongeometry.com/postcard)
+## [link to buy self-replicating postcard](https://www.actiongeometry.com/postcard)
 
 
 
