@@ -10,11 +10,21 @@ $dna = json_decode($dnaraw);
 mkdir("data");
 mkdir("php");
 mkdir("iconsymbols");
-mkdir("postcards");
+
+$postcardreplicator = file_get_contents("https://raw.githubusercontent.com/LafeLabs/symbolmagic/master/postcard/php/replicator.txt");
+$shapesreplicator = file_get_contents("https://raw.githubusercontent.com/LafeLabs/symbolmagic/master/shapes/php/replicator.txt");
+$srmreplicator = file_get_contents("https://raw.githubusercontent.com/LafeLabs/symbolmagic/master/srm/php/replicator.txt");
+$contactreplicator = file_get_contents("https://raw.githubusercontent.com/LafeLabs/symbolmagic/master/contact/php/replicator.txt");
+
+mkdir("postcard");
 mkdir("shapes");
 mkdir("srm");
 mkdir("contact");
 
+file_put_contents("postcard/replicator.php",$postcardreplicator);
+file_put_contents("shapes/replicator.php",$shapesreplicator);
+file_put_contents("srm/replicator.php",$srmreplicator);
+file_put_contents("contact/replicator.php",$contactreplicator);
 
 
 foreach($dna->html as $value){
