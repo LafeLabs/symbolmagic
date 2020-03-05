@@ -1,7 +1,7 @@
 <?php
 //replcace the following url with your local data/dna.txt file's global url:
 
-$dnaurl = "https://raw.githubusercontent.com/LafeLabs/symbolmagic/master/data/dna.txt";
+$dnaurl = "https://raw.githubusercontent.com/LafeLabs/symbolmagic/master/postcard/data/dna.txt";
 
 $baseurl = explode("data/",$dnaurl)[0];
 $dnaraw = file_get_contents($dnaurl);
@@ -9,15 +9,10 @@ $dna = json_decode($dnaraw);
 
 mkdir("data");
 mkdir("php");
-mkdir("iconsymbols");
 
 
 foreach($dna->html as $value){
     copy($baseurl.$value,$value);
-}
-
-foreach($dna->iconsymbols as $value){
-    copy($baseurl."iconsymbols/".$value,"iconsymbols/".$value);
 }
 
 
