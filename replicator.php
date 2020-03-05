@@ -10,6 +10,11 @@ $dna = json_decode($dnaraw);
 mkdir("data");
 mkdir("php");
 mkdir("iconsymbols");
+mkdir("postcards");
+mkdir("shapes");
+mkdir("srm");
+mkdir("contact");
+
 
 
 foreach($dna->html as $value){
