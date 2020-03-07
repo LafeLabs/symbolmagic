@@ -67,6 +67,7 @@
 
 [https://www.dreamhost.com/ paid hosting, cheap domain names](https://www.dreamhost.com/)
 
+[https://opensource.com/article/17/3/building-personal-web-server-raspberry-pi-3](https://opensource.com/article/17/3/building-personal-web-server-raspberry-pi-3)
 
 1. Get a new web hosting account on either a free or paid hosting service above.  All domain names should be linked to physical places, based either on the local watershed geography or local street geography, with a non-commercial ending like .xyz or .net or .org rather than .com.  
 2. On the new web hosting account you have set up, create a new file in the main web directory called replicator.php, open that file in the text editor on the server and copy the [code found here](php/replicator.txt) onto it.  Point a web browser to the web address of your new page, followed by /replicator.php, then click on the link that appears to go to your new page

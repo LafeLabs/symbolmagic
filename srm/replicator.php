@@ -19,16 +19,19 @@ $agreplicator = file_get_contents("https://raw.githubusercontent.com/LafeLabs/ac
 
 $thingreplicator = file_get_contents("https://raw.githubusercontent.com/LafeLabs/thing/master/php/replicator.txt");
 
+$spiralreplicator = file_get_contents("https://raw.githubusercontent.com/LafeLabs/symbolmagic/master/srm/spiral/php/replicator.txt");
 
 mkdir("srs");
 mkdir("srwp");
 mkdir("ag");
 mkdir("geometronthing");
+mkdir("spiral");
 
 file_put_contents("srs/replicator.php",$srsreplicator);
 file_put_contents("srwp/replicator.php",$srwpreplicator);
 file_put_contents("ag/replicator.php",$agreplicator);
 file_put_contents("geometronthing/replicator.php",$thingreplicator);
+file_put_contents("spiral/replicator.php",$spiralreplicator);
 
 
 foreach($dna->html as $value){
