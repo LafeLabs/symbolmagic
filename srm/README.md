@@ -11,6 +11,7 @@
 - [The Theory of Self-Replicating sets](srs/)
 - [Shapes of Reality Symbol Generator](ag/)
 - [Geometron Thing](geometronthing/)
+- [spiral](spiral/)
 
 ## Physical([summon a wizard to replicate](../contact/)):
 
