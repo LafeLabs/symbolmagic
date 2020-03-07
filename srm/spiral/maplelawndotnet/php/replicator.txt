@@ -1,7 +1,7 @@
 <?php
 //replcace the following url with your local data/dna.txt file's global url:
 
-$dnaurl = "https://raw.githubusercontent.com/LafeLabs/symbolmagic/master/srm/spiral/data/dna.txt";
+$dnaurl = "https://raw.githubusercontent.com/LafeLabs/symbolmagic/master/srm/spiral/maplelawndotnet/data/dna.txt";
 
 $baseurl = explode("data/",$dnaurl)[0];
 $dnaraw = file_get_contents($dnaurl);
