@@ -1,7 +1,7 @@
 <?php
 
 
-$dnaurl = "https://raw.githubusercontent.com/LafeLabs/actiongeometry/master/symbol-simplified/data/dna.txt";
+$dnaurl = "https://raw.githubusercontent.com/LafeLabs/symbolmagic/master/srm/ag/data/dna.txt";
 $baseurl = explode("data/",$dnaurl)[0];
 $dnaraw = file_get_contents($dnaurl);
 $dna = json_decode($dnaraw);
