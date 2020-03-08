@@ -21,6 +21,7 @@
         "text2php.txt"
     ],
     "iconsymbols": [
+        "21triangles.svg",
         "glyphs.svg",
         "goldenspiral.svg",
         "goldentriangle.svg",
