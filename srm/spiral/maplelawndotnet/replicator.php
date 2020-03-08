@@ -9,12 +9,16 @@ $dna = json_decode($dnaraw);
 
 mkdir("data");
 mkdir("php");
+mkdir("iconsymbols");
 
 
 foreach($dna->html as $value){
     copy($baseurl.$value,$value);
 }
 
+foreach($dna->iconsymbols as $value){
+    copy($baseurl."iconsymbols/".$value,"iconsymbols/".$value);
+}
 
 foreach($dna->data as $value){
     

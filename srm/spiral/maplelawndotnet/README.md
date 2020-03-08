@@ -1,50 +1,40 @@
-[link up a level](../)
+# Symbol Magic
 
-[scrolleditor.html(edit README file)](scrolleditor.html)
+## Information is physical
 
-# Maple Lawn dot Net
+![](iconsymbols/goldentriangle.svg)
 
-![](https://i.imgur.com/O6PGrPo.jpg)
+## Golden Triangle
 
-![](https://i.imgur.com/IkPnVzr.jpg)
+![](iconsymbols/plasticshape.png)
 
-## Sidamo Coffee:
+## Plastic shape
 
-![](https://i.imgur.com/sVy0g0I.png)
+![](iconsymbols/glyphs.svg)
 
-Between the soft chairs and the door on the Northwest corner of the coffee shop is the free book section.  Box is found there.
+## Geometron symbols for symmetries and scales
 
-## Gong Cha
+![](iconsymbols/pentagram.svg)
 
-![](https://i.imgur.com/3MNI6Eh.png)
+## Pentagram
 
-## Golden Triangle Fractal:
+![](iconsymbols/pentagoniris.svg)
 
-![](https://i.imgur.com/Z6u7zTS.png)
+## Pentagonal Iris
 
-The figure above is the Golden Triangle: the triangle with a base that is one over the Golden Ratio of the other two sides in length.  It is made up of a sequence of smaller Golden Triangles, each smaller than the previous by the Golden Ratio.  For more on the Golden Ratio watch the Disney film "Donald in MathemagicLand". It's on youtube.
+![](iconsymbols/spiral.svg)
 
-This Triangle can be used to create any kind of symbols based on fivefold symmetry.  This includes pentagons, pentagrams, Penrose tiles, various figures based on logarithmic spirals, and decagons.  Symbols can be colored in with basic simple colors to make a very large number of potential symbols from this one triangle.  If symbols are made using just a Golden Triangle traced at various scales and basic rainbow colors, those symbols can be replicated by anyone else with the Golden Triangle and color tools.  This can replicate to any physical media using any kind of colors: paint pen on rock, wood and brick, sharpies on cardboard, colored pencils on high quality card stock.  
+## Spiral
 
-Any media with a symbol on it can be tracked online by making a channel code and using that as a hashtag.  A channel code is created by rolling pairs of dice and using a dice grid decoder to turn the dice rolls into letters and numbers.  Repeat as needed for some number of characters, 6 is a good starting point as that is a space of 1 billion channels.   
+Follow the hashtag you see on the card you found on social media(primarily [instagram](https://www.instagram.com/)).  Replicate the card.  Add messages to cards and distribute.  Use social media on that hashtag to share locations of cards.  Social media points to cards and triangles, cards point to social.  
 
-- artbox with cards, crayons, golden triangle, box replicator triangle in Sidamo, artbox has this domain name
-- buy more crayons and pens from CVS
-- buy stationary online and donate
-- map with location of Sidamo
-- bag of dice, decoder to make hashtags, how to do it
-- this scroll has photos of artbox assembly, all from imgur links
-- link to buy amazon stationary
-- stack of same stationary
-- some cards with symbols and hashtags left for others
-- link to ponoko and to svg to use to make bulk triangles there, with prices here, photograph of triangle with and without paper, pile of them, various hiding spots, how to distribute
-- photo of the artbox in its location
-- photo of the artbox with all the components
-- link to scroll on how to replicate the server
-- this page is basically static.  Dynamic content is physical and follows hashtags on other open media
-- instructions to replicate the page: domain, hosting, new page, edit content, back up, if this page is mostly static, replication requires almost no edits after it happens, just keep replicating this page 
+Choose a domain name based on your public physical location(not an exact address).  Choose a top level domain other than .com like .xyz, .net or .org.  Create a hashtag based on that domain, spelling out the word "dot" e.g. #brandywinebridgedotxyz or #minasmorguldotnet.  Buy the domain, get hosting either on a paid host like [dreamhost](https://www.dreamhost.com/) or a free host like [000webhost](https://www.000webhost.com/), create a new file in the main web directory for your new domain in your hosting account called "replicator.php", and copy the code from [the local replicator file from this web page](php/replicator.txt) to the new site.  Point a browser to [www.yournewdomainname.xyz]/replicator.php, click through on the links, and you have replicated this page to a new place, which has a new hashtag. Create physical media using the Golden Triangle which has the hashtag and domain for this place and distribute publicly along with physical Golden Triangles.  
 
-To replicate the triangles, open a text file and copy the code from [this link into it](https://pastebin.com/raw/4tJEu8Ff).  Save that file as triangles.svg(note the ending).  Then go to [Ponoko.com](https://www.ponoko.com), a laser cut/etch on demand company who'll get them made and shipped to you.  Each unit will be 21 shapes, so 100 sets are 2100 triangles is a lot of triangles.  When you upload to ponoko.com you'll need to specify the width of the file, that is 7.42 inches to make triangles that are 3 inches on the long sides.  Select neon green transluscent acrylic, 0.12 inches thick.  In large quantities this should break down to about 50 cents per triangle.  Buy in bulk and distribute in art/coffee locations.  Note the "etch" layer is the one with the small detail triangles(red) and the "cut" layer is just the outlines.  This shape can also be printed out using a public laser cutter in the maker space of a public library.  
+To get more Golden Triangles, buy them in bulk from the laser cut on demand company [Ponoko.com](https://www.ponoko.com).  Download the file used to create them here:
+
+[21triangles.svg](iconsymbols/21triangles.svg)
+
+Each unit will be 21 shapes, so 100 sets are 2100 triangles is a lot of triangles.  When you upload to ponoko.com you'll need to specify the width of the file, that is 7.42 inches to make triangles that are 3 inches on the long sides.  Select neon green transluscent acrylic, 0.12 inches thick.  In quantities of about 1000 triangles this should break down to about 50 cents per triangle.  Buy in bulk and distribute in art/coffee locations.  Note the "etch" layer is the one with the small detail triangles(red) and the "cut" layer is just the outlines.  This shape can also be printed out using a public laser cutter in the maker space of a public library.  Check your local public library for laser cutter availability and look for when the safety training class is.  
 
 
 

@@ -1,5 +1,6 @@
-{
-  "glyph": "",
+<svg width="400" height="400" viewbox = "0 0 400 400"  xmlns="http://www.w3.org/2000/svg">
+<!--<json>{
+  "glyph": "0210,0325,0337,0223,",
   "shapes": [
     "0220:0311,0305,0362,0203,0334,0350,0334,0337,0203,0334,0334,0334,0334,0203,0354,0334,0334,0334,0336,0330,0334,",
     "0221:0305,0311,0350,0362,0203,0334,0203,0334,0334,0334,0334,0203,0334,0203,0354,0334,0334,0334,0334,",
@@ -55,7 +56,7 @@
   "unitrel": 0.15,
   "theta0": -1.570796,
   "width": 400,
-  "height": 300,
+  "height": 400,
   "scale": 1,
   "backgroundimage": "",
   "style": {
@@ -130,4 +131,4 @@
     8,
     17
   ]
-}
+}</json>-->	<path d = "M200 200 L200 95 L300 63 L300 168 L200 200 Z" stroke = "#00ff00" stroke-width = "2" fill = "none" />	<path d = "M200 200 L300 168 L361 252 L262 285 L200 200 Z" stroke = "#00ff00" stroke-width = "2" fill = "none" />	<path d = "M200 200 L262 285 L200 370 L138 285 L200 200 Z" stroke = "#00ff00" stroke-width = "2" fill = "none" />	<path d = "M200 200 L138 285 L39 252 L100 168 L200 200 Z" stroke = "#00ff00" stroke-width = "2" fill = "none" />	<path d = "M200 200 L100 168 L100 63 L200 95 L200 200 Z" stroke = "#00ff00" stroke-width = "2" fill = "none" /></svg>

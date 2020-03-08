@@ -19,5 +19,14 @@
         "rdelete.txt",
         "replicator.txt",
         "text2php.txt"
+    ],
+    "iconsymbols": [
+        "glyphs.svg",
+        "goldenspiral.svg",
+        "goldentriangle.svg",
+        "pentagoniris.svg",
+        "pentagram.svg",
+        "plasticshape.png",
+        "spiral.svg"
     ]
 }
