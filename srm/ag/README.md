@@ -1,58 +1,61 @@
-[../](../)
+#  Symbol Magic
 
-[link back to symbol editor](index.html)
+## 🧙 ⭐ 🍄
 
-[editor.php](editor.php)
+    Symbol: Geometry with meaning
 
-<div style = "font-size:3em;font-family:times;text-align:center;width:100%">
-    <span style = "color:red">&#x0393;</span>
-    <span style = "color:orange">&#x03b5;</span>
-    <span style = "color:yellow">&#x03c9;</span>
-    <span style = "color:green">&#x03bc;</span>
-    <span style = "color:blue">&#x03b5;</span>
-    <span style = "color:purple">&#x03c4;</span>
-    <span style = "color:red">&#x03c1;</span>
-    <span style = "color:orange">&#x03bf;</span>
-    <span style = "color:yellow">&#x03bd;</span>
-</div>
+    Magic: Replication of desire
 
-# Geometry in this place physically here, with words about this factory, url, links etc
+![](iconsymbols/t1image.png)
 
-[fork.html](fork.html)
+![](iconsymbols/squareimage.png)
 
-![](iconsymbols/shapeset.svg)
+![](iconsymbols/isocrightimage.png)
+
+![](iconsymbols/goldenshapesimage.png)
+
+![](iconsymbols/root3image.png)
+
+![](iconsymbols/goldentriangle.svg)
+
+![](iconsymbols/pentagram.svg)
+
+![](iconsymbols/pentagoniris.svg)
+
+![](iconsymbols/spiral.svg)
+
+![](iconsymbols/hexagon-iris.svg)
+
+![](iconsymbols/hexagon-star.svg)
+
+![](iconsymbols/fractal45.svg)
+
+![](iconsymbols/octagon.svg)
+
+[Link Back to Symbol Editor](index.html)
+
+To operate the symbol editor using a keyboard(on laptop or desktop instead of mobile or tablet), paint these shapes on the keys of a keyboard and use them:
 
 ![](iconsymbols/keyboard.svg)
 
-symmetries
+On mobile touch screen buttons are used to edit symbol. Symbols are not saved.  To save a symbol take a screen shot.  Symbols can be made with either physical Shape Set pictured here or [web app](index.html).
 
-scales
+To communicate with other people using Symbol Magic, convert the domain name associated with this page to a hashtag by using the format [domain]dot[top level domain], e.g. www.symbolmagic.com goes to #symbolmagicdotcom and www.minasmorgul.xyz would go to the hashtag #minasmorguldotxyz.  Create symbols online or using physical media with Shape Set in public spaces, share the media, share the geometry.  
 
-shapes
+Follow the hashtag on social media(primarily [instagram](https://www.instagram.com/)).  Twitter hashtags can be used the same way. Use the hashtag to find other people using this local channel, as well as physical stations where publicly available Shape Sets, arts and craft supplies can be found.  To create a new page in a new place follow the instructions to create a new page below.  
 
-laser cut shapes
+To learn how to create and share meaningful symbols using Symbol Magic, take a class from someone you find using the above channels(including finding people in physical locations).  
 
-printed paper shapes, print in 3 inches, 6 inches size, trace onto cardboard for tiles, pdfs(?) to print in the iconsymbol directory or just svgs to replicate(yes, this)
 
-cardboard penrose tiles sold for cash
+### Instructions to replicate the whole page below this line
 
-cardboard shape set sold for cash
+Choose a domain name based on your public physical location(not an exact address).  Choose a top level domain other than .com like .xyz, .net or .org.  Create a hashtag based on that domain, spelling out the word "dot" e.g. #brandywinebridgedotxyz or #minasmorguldotnet.  Buy the domain, get hosting either on a paid host like [dreamhost](https://www.dreamhost.com/) or a free host like [000webhost](https://www.000webhost.com/), create a new file in the main web directory for your new domain in your hosting account called "replicator.php", and copy the code from [the local replicator file from this web page](php/replicator.txt) to the new site.  Point a browser to [www.yournewdomainname.xyz]/replicator.php, click through on the links, and you have replicated this page to a new place, which has a new hashtag. Create physical media using the Golden Triangle which has the hashtag and domain for this place and distribute publicly along with physical Golden Triangles.  
 
-passerby make tiles on sidewalk
+To make a shape set, order from the laser cut on demand company [Ponoko.com](https://www.ponoko.com).  Download the file used to create them here:
 
-station has bucket of water and scrub brush to remove chalk periodically
+[![](iconsymbols/shapeset.svg)](iconsymbols/shapeset.svg)
 
-urls point to simplified action geometry symbol langauge instance
+[21triangles.svg](iconsymbols/21triangles.svg)
 
-keyboard stickers, pdf to print
-
-replication
-
-cardboard shapes, 4-18 inches, chalk on cement
-
-sharpies, box cutters, string and thumb tack(for circles)
-
-artbox made of cardboard and tape for collection of cash money for shared funds
-
-links to all the things, to replicate downard in tree using seed
+ When you upload to ponoko.com you'll need to specify the width of the file, that is 6 inches to make shapes that are 3 inches on a side.  Select neon green transluscent acrylic, 0.12 inches thick.   Note the "etch" layer is the one with the small details (red) and the "cut" layer is just the outlines.  This shape can also be printed out using a public laser cutter in the maker space of a public library.  Check your local public library for laser cutter availability and look for when the safety training class is.  For more information on how to laser cut or for an existing shape set contact whoever set this page up by following the Instagram hashtag as described above and direct messaging someone who's using the hashtag( called a local channel).  The Instagram feed will also have links to physical installations which might have free public shape sets you can use to create symbols.
 

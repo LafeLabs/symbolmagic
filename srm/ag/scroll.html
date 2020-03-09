@@ -1,39 +1,9 @@
 <!doctype html>
 <html lang="en">
     <head>
-         <meta charset="utf-8"/>
-
-<!--
-
-NO MONEY
-NO MINING
-NO PROPERTY
-EVERYTHING IS PHYSICAL
-EVERYTHING IS RECURSIVE
-EVERYTHING IS FRACTAL
-LOOK AT THE INSECTS
-LOOK AT THE FUNGI
-LANGUGE IS HOW THE MIND PARSES REALITY
-
--->
-    <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADf+wAA3/sAAAfgAACv9QAAoAUAAK/1AACv9QAAqBUAAK/1AACoFQAAr/UAAKAFAACv9QAAB+AAAN/7AADf+wAA" rel="icon" type="image/x-icon" />
-            <!--Stop Google:-->
+     <meta charset="utf-8"/>
+    <!--Stop Google:-->
     <META NAME="robots" CONTENT="noindex,nofollow">
-
-<!--       un comment to use math
-
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-        <script>
-            MathJax.Hub.Config({
-                tex2jax: {
-                inlineMath: [['$','$'], ['\\(','\\)']],
-                processEscapes: true,
-                processClass: "mathjax",
-                ignoreClass: "no-mathjax"
-                }
-            });//			MathJax.Hub.Typeset();//tell Mathjax to update the math
-        </script>
-    -->
 
 <!-- 
 
@@ -45,37 +15,26 @@ Markdown is a lightweight language for creating formatted text on a computer, se
 
 https://en.wikipedia.org/wiki/Markdown
 
-bootstrap is whole big thing that does lots of things, but what we use it for here is just to make things look good on a mobile device. 
 
 -->
     <script src = "https://cdnjs.cloudflare.com/ajax/libs/showdown/1.8.6/showdown.js"></script>
-
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    
+<link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA/wAAAAD//wAA/wAAAAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMzMzQREREAAzMzRBEREQAAMzNEQREQAAAzNERBERAAAAM0REQRAAAAAEREREAAAAAAREREQAAAAAACIiIAAAAAAAIiIgAAAAAAACIgAAAAAAAAIiAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAACAAQAAwAEAAOADAADgAwAA8AcAAPgPAAD4DwAA/B8AAPwfAAD+PwAA/j8AAP9/AAD//wAA" rel="icon" type="image/x-icon" />
 
     </head>
 <body>
     
-<div class = "mainscrollarea" id = "scrollscroll"></div>
+<div id = "scrollscroll"></div>
 
-<div id = "margin">
-    <a href = "scrolleditor.html">
-         <img style = "width:50px;" src = "iconsymbols/edit.svg"/>
-    </a>
-    <a href = "index.html">
-        <img style = "width:50px;" src = "iconsymbols/geometron.svg"/>
-    </a>
-</div>
 
 <script>
 
     
     //get readme.md, convert to html and display
+    
     var converter = new showdown.Converter();
     // for more on options see here:
     // https://github.com/showdownjs/showdown/wiki/Showdown-Options
-    converter.setOption('literalMidWordUnderscores', 'true');
-    converter.setOption('tables', 'true');
-
 
     readme_md = "";
     rawhtml = "";
@@ -95,68 +54,32 @@ bootstrap is whole big thing that does lots of things, but what we use it for he
     body{
         overflow:hidden;
     }
-    .mainscrollarea{
-        position:absolute;
-        left:0px;
-        right:30em;
-        top:0px;
-        bottom:0px;
+    a{
+        color:#00ff00;
     }
-    #scrollscroll{
-        overflow:scroll;
-        border-right:solid;
-        border-width:0.1px;
-        border-color:red;
-        padding-left:1em;
-        padding-right:1em;
-        padding-bottom:5em;
-    }
-    #scrollscroll img{
-        max-width:80%;
-        display:block;
-        margin:auto;
-    }
-    #scrollscroll h1,h2,h3,h4{
+    h1,h2,h3,h4{
         margin:auto;
         text-align:center;
     }
-    #margin{
+    #scrollscroll{
         position:absolute;
+        left:0px;
         right:0px;
-        bottom:0px;
         top:0px;
-        width:27em;
+        bottom:0px;
+        overflow:scroll;
+        padding-left:1em;
+        padding-right:1em;
+        padding-bottom:5em;
+        font-size:2em;
+        font-family:courier;
+        color:#00ff00;
+        background-color:black;
     }
-    @media only screen and (orientation: portrait) {
-        .mainscrollarea{
-            position:absolute;
-            left:0px;
-            top:70px;
-            right:0px;
-            bottom:0px;
-            font-size:3em;
-        }
-        h1{
-            font-size:1.5em;
-        }
-        h2{
-            font-size:1.25em;
-        }
-        h3{
-            font-size:1em;
-        }
-        h4{
-            font-size:0.8em;
-        }
-        #margin{
-            position:absolute;
-            right:0px;
-            left:0px;
-            top:0px;
-            width:100%;
-            height:70px;
-            overflow:scroll;
-        }
+     img{
+        max-width:90%;
+        display:block;
+        margin:auto;
     }
 </style>
 </body>
