@@ -60,5 +60,13 @@ To make a shape set, order from the laser cut on demand company [Ponoko.com](htt
 
 Anyone who knows the system can run classes for free or for money, and can train anyone else to run classes.  Anyone who knows the system can create physical media based on self-replicating symbols which can carry any meaning: anything you might desire from a symbol can be encoded into some physical media with a symbol made from the language presented here.  
 
+[Instagram: @symbolmagic](https://www.instagram.com/symbolmagic/)
 
+[Twitter: @symbolmagic](https://twitter.com/symbolmagic/)
+
+[Facebook: @symbolmagic](https://www.facebook.com/symbolmagic/)
+
+[Youtube: Symbol Magic Channel](https://www.youtube.com/channel/UCby2R3PVmv4CIwEUytppzZA)
+
+[Pinterest: @symbolmagic](https://www.pinterest.com/symbolmagic/)
 
